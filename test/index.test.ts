@@ -8,7 +8,7 @@
 // ╔════════════════════════════════════════ PACK ════════════════════════════════════════╗
 
     import { describe, expect, test, beforeEach, mock } from 'bun:test';
-    import { HttpClient, http, configureHttp, useQuery, useMutation, retry, createAbortController } from '../src/main';
+    import { HttpClient, http, configureHttp, useQuery, useMutation, retry, createAbortController } from '../src';
     import * as types from '../src/types';
 
 // ╚══════════════════════════════════════════════════════════════════════════════════════╝
