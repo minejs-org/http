@@ -5,7 +5,7 @@
 	"repo"              : {
 		"org"           : "minejs",
 		"name"          : "http",
-		"version"       : "0.0.3",
+		"version"       : "0.0.4",
 		"desc"          : "Lightweight HTTP client with interceptors, caching, and reactive data fetching.",
 		"kw"            : ["minejs", "http", "client"],
 		"license"       : "MIT",
